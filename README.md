@@ -21,7 +21,7 @@ optional arguments:
 Just create a virtualenv, install the requirements and make sure Tor is running.
 
 ```bash
-$ git clone https://github.com/davidtavarez/pwndb
+$ git clone https://github.com/alex14324/pwndb
 Cloning into 'pwndb'...
 remote: Enumerating objects: 10, done.
 remote: Counting objects: 100% (10/10), done.
@@ -55,10 +55,6 @@ optional arguments:
 ## Contributing
 
 Pull Requests are welcomed. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
 
 ## Disclaimer
 
